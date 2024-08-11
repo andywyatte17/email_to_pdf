@@ -1,0 +1,4 @@
+src/*.zip
+src/*.7z
+venv
+output.*
